@@ -1,0 +1,12 @@
+/Users/adriancuenca/NetBeansProjects/concesionario/src/main/java/com/mycompany/concesionario/igu/Editar.java
+/Users/adriancuenca/NetBeansProjects/concesionario/src/main/java/com/mycompany/concesionario/persistencia/ControladoraPersistencia.java
+/Users/adriancuenca/NetBeansProjects/concesionario/src/main/java/com/mycompany/concesionario/logica/Controladora.java
+/Users/adriancuenca/NetBeansProjects/concesionario/src/main/java/com/mycompany/concesionario/logica/Automovil.java
+/Users/adriancuenca/NetBeansProjects/concesionario/src/main/java/com/mycompany/concesionario/igu/Consultas.java
+/Users/adriancuenca/NetBeansProjects/concesionario/src/main/java/com/mycompany/concesionario/persistencia/exceptions/IllegalOrphanException.java
+/Users/adriancuenca/NetBeansProjects/concesionario/src/main/java/com/mycompany/concesionario/igu/Principal.java
+/Users/adriancuenca/NetBeansProjects/concesionario/src/main/java/com/mycompany/concesionario/persistencia/exceptions/PreexistingEntityException.java
+/Users/adriancuenca/NetBeansProjects/concesionario/src/main/java/com/mycompany/concesionario/persistencia/exceptions/NonexistentEntityException.java
+/Users/adriancuenca/NetBeansProjects/concesionario/src/main/java/com/mycompany/concesionario/persistencia/AutomovilJpaController.java
+/Users/adriancuenca/NetBeansProjects/concesionario/src/main/java/com/mycompany/concesionario/igu/Altas.java
+/Users/adriancuenca/NetBeansProjects/concesionario/src/main/java/com/mycompany/concesionario/Main.java
